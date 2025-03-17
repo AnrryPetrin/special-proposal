@@ -99,7 +99,7 @@ export default function Home() {
         </div>
         
         <p className="text-lg sm:text-xl mb-6 sm:mb-8 font-medium text-gray-800 dark:text-gray-200">
-          In the midst of a past filled with pain, you've helped me rediscover hope and trust. My heart now beats with gentle joy, and I long to share this newfound love with you.<br/>Will you be my girlfriend?
+          In the midst of a past filled with pain, you&apos;ve helped me rediscover hope and trust. My heart now beats with gentle joy, and I long to share this newfound love with you.<br/>Will you be my girlfriend?
         </p>
         
         {!answered ? (
